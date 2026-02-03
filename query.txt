@@ -1,4 +1,4 @@
 alter table ao_exttable add (E_BANKING nvarchar2(10),INTERNET_BANKING nvarchar2(10),BRANCH_BANKING nvarchar2(10),ATM_BANKING nvarchar2(10),
 MOBILE_BANKING nvarchar2(10),PHONE_BANKING nvarchar2(10),SMS_BANKING nvarchar2(10));
 
-this is some changw
+this is some change
